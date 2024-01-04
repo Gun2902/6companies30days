@@ -1,3 +1,5 @@
+//number of way to reach a position  after exactly  k steps
+
 #include <iostream>
 #include <vector>
 
